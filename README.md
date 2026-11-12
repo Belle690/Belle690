@@ -3,9 +3,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E6D5F7,50:FCE1EB,100:FFF5CC&height=180&section=header&text=Hello,%20World!&fontSize=45&fontColor=80658F&animation=fadeIn&fontAlignY=35&desc=welcome%20to%20my%20little%20space%20♡&descAlignY=55&descSize=15"/>
 
-# ୨୧ Olá, eu sou [SEU NOME]! 
+# ୨୧ Olá, eu sou a Belle!🌷
 
-### 🎀 Estudante de Desenvolvimento de Sistemas
+### 🌷 Estudante de Desenvolvimento de Sistemas
 
 *Learning, creating and growing one line of code at a time.*
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 💜 Tecnologias e ferramentas
+## 🌷 Tecnologias e ferramentas
 
 ### ♡ Front-end
 
