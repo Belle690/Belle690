@@ -17,9 +17,6 @@
 ## 🌷 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI.
-- 💻 Apaixonada pelo universo da tecnologia.
-- 🌸 Atualmente aprendendo desenvolvimento Web.
-- 🧠 Estudando lógica de programação, Front-end e Back-end.
 - ✨ Buscando evoluir e transformar ideias em projetos.
 - 💗 Sempre aprendendo algo novo!
 
