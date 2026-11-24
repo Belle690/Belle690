@@ -46,19 +46,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=FFF9F2&title_color=B58AD8&icon_color=E9A5C4&text_color=80658F&include_all_commits=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=FFF9F2&title_color=B58AD8&text_color=80658F"/>
-
-</div>
-
----
-
-<div align="center">
 
 ### 🌷 Obrigada por visitar meu cantinho! ♡
 
